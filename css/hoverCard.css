@@ -1,12 +1,11 @@
-.hoverCard {
-
-}
+.hoverCard {}
 
 .hoverCard a {
     text-decoration: none;
 }
 
-.hoverCard a:visited {
+.hoverCard a:visited,
+a:link {
     color: var(--dark);
 }
 
