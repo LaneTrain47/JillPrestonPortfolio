@@ -17,7 +17,7 @@ body {
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
-    background-image: radial-gradient(circle 827px at 47.3% 48%, rgba(255, 255, 255, 1) 0%, rgba(138, 192, 216, 1) 90%);
+    background-image: radial-gradient(circle 827px at 47.3% 48%, #d9a7c7 0%, #fffcdc 90%);
 }
 
 @media only screen and (min-width: 992px) {
